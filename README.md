@@ -39,6 +39,8 @@ Hypotheses 2: Countries with high initial GDP should show a stagnant or negative
 
 <h3><b><ins>References</ins></b></h3> 
 
+<h5> 
+
 1.	Haerpfer, C., Inglehart, R., Moreno, A., Welzel, C., Kizilova, K., Diez-Medrano J., M. Lagos, P. Norris, E. Ponarin & B. Puranen et al. (eds.). 2022. World Values Survey Trend File (1981-2022) Cross-National Data-Set. Madrid, Spain  &  Vienna,  Austria:  JD  Systems  Institute  &  WVSA Secretariat. Data File Version 3.0.0, doi:10.14281/18241.23.
 
 2.	World Bank. (1990 - 2022). "GDP growth (annual %)." World Bank Open Data. Available: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG
@@ -53,5 +55,5 @@ Hypotheses 2: Countries with high initial GDP should show a stagnant or negative
 
 7.	Edwards, J.A.; Romero, A.; Naanwaab, C., "Income Inequality, the World Values Survey, and the Interaction of Cultural Dimensions," Applied Econometrics & International Development, vol. 22, no. 2, pp. 5, 2022.
 
-8.	IBAN."IBAN Country Codes." [Online]. Available: https://www.iban.com/country-codes.
+8.	IBAN."IBAN Country Codes." [Online]. Available: https://www.iban.com/country-codes.</h5>
 
