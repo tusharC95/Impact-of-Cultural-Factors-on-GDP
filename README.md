@@ -1,4 +1,4 @@
-<h1><b><ins>Influence of Culture on GDP: A Comprehensive Analysis</ins></b></n></h1>
+<h1><b><ins>Impact of Culture on GDP: A Comprehensive Analysis</ins></b></n></h1>
 
 <h3><b><ins>Question of Interest:</ins></b></h3>
 
