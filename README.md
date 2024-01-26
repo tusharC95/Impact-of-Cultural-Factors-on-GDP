@@ -15,7 +15,13 @@ The correlation between GDP growth and prominent factors such as imports, export
 <i>To what extent do cultural factors, such as secular and emancipative values, contribute to a country's GDP per capita growth?</i>
 
 
+![image](https://github.com/tusharC95/QDA_Project/assets/64319078/a955a5e0-7356-4901-a3ed-29f37acd8003)
+
+
+
 <h3><b><ins>Initial Hypothesis:</ins></b></h3>
+
+
 
 Our interest is in correlating cultural factors that may relate to the GDP per capita growth rate of a country. The following hypotheses shall be tested:
 
@@ -23,8 +29,6 @@ Hypotheses 1: Emancipative values and Secular Values should reflect a positive r
 
 Hypotheses 2: Countries with high initial GDP should show a stagnant or negative growth rate over the years from wave 1 to 7. On the other hand, countries with lower initial GDP should show a hike in the GDP growth rate.
 
-
-![image](https://github.com/tusharC95/QDA_Project/assets/64319078/a955a5e0-7356-4901-a3ed-29f37acd8003)
 
 
 ![image](https://github.com/tusharC95/QDA_Project/assets/64319078/9a3f9d23-2ae6-4647-969a-dbfa9706a2f7)  ![image](https://github.com/tusharC95/QDA_Project/assets/64319078/8d0c6968-c966-481d-8e47-ee9b67fbb71b)
