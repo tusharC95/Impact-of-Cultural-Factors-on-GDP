@@ -38,12 +38,20 @@ Hypotheses 2: Countries with high initial GDP should show a stagnant or negative
 <i>Tushar Chitnavis</i>
 
 <h3><b><ins>References</ins></b></h3> 
+
 1.	Haerpfer, C., Inglehart, R., Moreno, A., Welzel, C., Kizilova, K., Diez-Medrano J., M. Lagos, P. Norris, E. Ponarin & B. Puranen et al. (eds.). 2022. World Values Survey Trend File (1981-2022) Cross-National Data-Set. Madrid, Spain  &  Vienna,  Austria:  JD  Systems  Institute  &  WVSA Secretariat. Data File Version 3.0.0, doi:10.14281/18241.23.
+
 2.	World Bank. (1990 - 2022). "GDP growth (annual %)." World Bank Open Data. Available: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG
+
 3.	World Bank. (1987 - 2022). "World Bank Country and Lending Groups." [Online]. Available: https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups.
+
 4.	Welzel, C. (2013). Freedom Rising: Human Empowerment and the Quest for Emancipation. New York: Cambridge University Press.
+
 5.	Granato, J., Inglehart, R., Leblang, D., "The Effect of Cultural Values on Economic Development: Theory, Hypotheses, and Some Empirical Tests," American Journal of Political Science, vol. 40, no. 3, pp. 607-631, August 1996.
+
 6.	Ranganathan S, Nicolis SC, Spaiser V, Sumpter DJ. Understanding Democracy and Development Traps Using a Data-Driven Approach. Big Data. 2015 Mar 1;3(1):22-33. doi: 10.1089/big.2014.0066. PMID: 26487983; PMCID: PMC4605381.
+
 7.	Edwards, J.A.; Romero, A.; Naanwaab, C., "Income Inequality, the World Values Survey, and the Interaction of Cultural Dimensions," Applied Econometrics & International Development, vol. 22, no. 2, pp. 5, 2022.
+
 8.	IBAN."IBAN Country Codes." [Online]. Available: https://www.iban.com/country-codes.
 
