@@ -1,4 +1,4 @@
-<h1><b><ins>Project Title:  Influence of Culture on GDP</ins></b></n></h1>
+<h1><b><ins>Influence of Culture on GDP: A Comprehensive Analysis</ins></b></n></h1>
 
 <h3><b>Question of Interest:</b></h3>
 
