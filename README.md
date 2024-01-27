@@ -2,7 +2,7 @@
 
 <h3><b><ins>Question of Interest:</ins></b></h3>
 
-The correlation between GDP growth and prominent factors such as imports, exports, consumer spending, investment, government spending, and employment levels is readily apparent. Consequently, our intention is to systematically incorporate cultural factors into our analysis to examine their impact on GDP per capita growth. 
+The correlation between GDP growth and prominent factors such as imports, exports, consumer spending, investment, government spending, and employment levels is readily apparent. Consequently, our intention is to systematically incorporate cultural factors into our analysis to examine their impact on GDP per capita growth.
 
 
 
@@ -13,6 +13,7 @@ The correlation between GDP growth and prominent factors such as imports, export
 <h3><b><ins>Research Question:</ins></b></h3>
 
 <i>To what extent do cultural factors, such as secular and emancipative values, contribute to a country's GDP per capita growth?</i>
+
 
 
 ![image](https://github.com/tusharC95/QDA_Project/assets/64319078/a955a5e0-7356-4901-a3ed-29f37acd8003)
